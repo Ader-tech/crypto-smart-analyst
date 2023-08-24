@@ -360,7 +360,28 @@ a.btn.btn-lg.btn-primary.btn-lg-square.rounded.back-to-top {
     height: 35px !important;
     font-size: 1rem !important;
 }
-footer.d-flex.align-items-center.justify-content-center {
-    flex-direction: column;
-    margin: 0.4rem;
-}
+
+.footer p.mb-0.mx-2 {
+        margin-right: auto !important;
+    }
+    
+    .footer  .d-flex.mb-0.mt-2 {
+        margin-left: auto !important;
+    }
+    .shadow.mx-2.border {
+        height: 600px;
+    }
+    .shadow.content-head.mx-2.border:hover {
+        transform: scale(1.06);
+        background: var(--dark);
+        color: #FFF;
+    }
+
+    .shadow.content-head.mx-2.border:hover h4 {
+        
+        color: #FFF !important;
+    }
+
+    small.align-top span {
+        text-decoration: line-through;
+    }
