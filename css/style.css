@@ -384,4 +384,6 @@ a.btn.btn-lg.btn-primary.btn-lg-square.rounded.back-to-top {
 
     small.align-top span {
         text-decoration: line-through;
+        text-decoration-thickness:2.5px ;
+        text-decoration-color: red;
     }
