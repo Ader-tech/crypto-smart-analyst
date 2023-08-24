@@ -245,10 +245,13 @@ h6,
     }
     
 }
-
 .carousel-control-prev,
 .carousel-control-next {
     width: 10%;
+}
+#testimonial-carousel .carousel-control-prev,
+#testimonial-carousel .carousel-control-next {
+    width: 5%;
 }
 
 .carousel-control-prev-icon,
