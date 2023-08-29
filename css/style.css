@@ -203,7 +203,7 @@ h6,
         height: 2px;
         bottom: -1px;
         left: 50%;
-        background: var(--primary);
+        background: goldenrod;
         transition: .5s;
     }
 
